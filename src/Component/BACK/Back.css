@@ -1,0 +1,47 @@
+.back{
+
+    width: 100%;
+    min-height: 80vh;
+    background-image:linear-gradient(rgba(8, 0, 58, 0.7),rgba(8,0,58,0.7)), url('../../assets/hero.jpg');
+    margin-top: 125px;
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+
+
+}
+.title{
+margin-left: 100px;
+margin-top: 100px;
+font-size: 500%;
+max-width: 30%;
+
+
+
+}
+.discription{
+
+max-width: 40%;
+margin-right: 10%;
+font-size: 120%;
+margin-left: 10%;
+display: flex;
+}
+.btn01{
+  
+    background: #FFF;
+    color: #212121;
+    padding:14PX 25PX;
+    font-size: 16PX;
+    border-radius: 30px;
+    cursor: pointer;
+    border: 0;
+    outline: 0;
+    margin-right: 1%;
+    margin-top: 0%;
+    display: flex;
+    
+
+
+
+}

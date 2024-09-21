@@ -1,0 +1,38 @@
+    div{
+        width: 100%;
+        background: #003153;
+        color: antiquewhite;
+        padding: 4px 0;
+        position: fixed;
+        top: 0;
+        left: 0;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        z-index: 10;
+
+}
+.logo {
+
+    width: 100px;
+     margin-left: 50px;
+     
+}
+div ul li {
+          
+        display: inline-block;
+        list-style: none;
+        margin:  20px;
+        font-size: 16px;
+
+
+
+}
+.container {
+
+         padding-right: 10%;
+
+
+}
+
+
